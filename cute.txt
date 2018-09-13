@@ -5,4 +5,3 @@ ocelot
 sloth
 
  bat 
-bear 
